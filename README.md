@@ -45,6 +45,7 @@ http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitLPBag.html
 
 ### Paper:
 Relevan publications to this work include [Person Re-ID Testbed with Multi-Modal Sensors](https://dl.acm.org/doi/abs/10.1145/3485730.3494113). For citation use: 
+```
 @inproceedings{zhao2021person,
   title={Person Re-ID Testbed with Multi-Modal Sensors},
   author={Zhao, Guangliang and Ben-Yosef, Guy and Qiu, Jianwei and Zhao, Yang and Janakaraj, Prabhu and Boppana, Sriram and Schnore, Austars R},
